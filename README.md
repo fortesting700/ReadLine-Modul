@@ -43,4 +43,4 @@ Example: 2
 Now we will perform a more difficult task. We write the data entered from the terminal to the array calculated in a specific mold and return it to the user in the table view. Here we also use the generator function
 ```
 
-![carbon (6)](https://user-images.githubusercontent.com/119097684/204082474-b32ac6db-ef4b-48c2-8e4c-9f27aa16bccd.png)
+
