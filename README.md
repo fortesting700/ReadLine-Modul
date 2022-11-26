@@ -32,8 +32,6 @@ As input parameter, createInterface uses process.stdin. As output parameter, cre
 ```
 Example: 1
 
-We return the value written to the terminal
-
 We subtract the number entered by the user in the terminal. The program is terminated since readline is closed in line 13.
 
 ```
