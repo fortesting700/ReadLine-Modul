@@ -18,11 +18,11 @@ To do this, we first open JS file. For example arg.js. Node Js has readline modu
 
 ```
 
-When we create Interfeys, we use the  createinterfeys method of readline module. The Create interface accepts 2 arguments. They are process.stdin and process.stdout.
+When we create Interfeys, we use the  createinterfeys method of readline module. The Create interface accepts 2 arguments. They are input and output.
 
-Process.stdin - the stinging function is used to bring the value from the terminal inside.
+input recieves - Process.stdin. Because: Process.stdin - the stinging function is used to bring the value from the terminal inside.
 
-process.stdout - to output the value to the terminal
+output recieves - process.stdout. Because:  output the value to the terminal
 
 ```
 
