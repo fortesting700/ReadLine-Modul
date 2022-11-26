@@ -16,7 +16,7 @@ To do this, we first open JS file. For example arg.js. Node Js has readline modu
 ![image](https://user-images.githubusercontent.com/119097684/204079256-3892217f-1e67-4d05-80cf-01f551ab2a57.png)
 
 
-# Create interface and Syntax
+# Syntax of Create interface
 
 ```
 
