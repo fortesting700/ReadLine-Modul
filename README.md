@@ -14,3 +14,16 @@ To do this, we first open JS file. For example arg.js. Node Js has readline modu
 ```
 ![image](https://user-images.githubusercontent.com/119097684/204076992-c13134d0-45b5-4d70-8452-09e00b7ce4ca.png)
 
+# Create interface
+
+```
+
+When we create Interfeys, we use the  createinterfeys method of readline module. The Create interface accepts 2 arguments. They are process.stdin and process.stdout.
+
+Process.stdin - the stinging function is used to bring the value from the terminal inside.
+
+process.stdout - to output the value to the terminal
+
+```
+
+![image](https://user-images.githubusercontent.com/119097684/204077475-092755b6-6818-43ff-8edf-dafa038719e5.png)
