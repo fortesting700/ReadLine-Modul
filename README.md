@@ -18,11 +18,9 @@ To do this, we first open JS file. For example arg.js. Node Js has readline modu
 
 ```
 
-When we create Interfeys, we use the  createinterfeys method of readline module. The Create interface accepts 2 arguments. They are input and output.
+The method createInterface() takes two parameters – the input stream and output stream – to create a readline interface. The third parameter is used for autocompletion and is mostly initialized as NULL. For example, one may want to access the tab, similar to how we might press the TAB key to complete a give string.
 
-input recieves - Process.stdin. Because: Process.stdin - the stinging function is used to bring the value from the terminal inside.
-
-output recieves - process.stdout. Because:  output the value to the terminal
+As input parameter, createInterface uses process.stdin. As output parameter, createInterface uses process.stdout.
 
 ```
 
