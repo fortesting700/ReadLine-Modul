@@ -3,7 +3,7 @@
 # What is Readline module 
 
 ```
-Readline module- take information from the terminal, save it and carry out certain work on it.
+Readline Module in Node.js allows the reading of input stream line by line. This module wraps up the process standard output and process standard input objects. Readline module makes it easier for input and reading the output given by the user.(Readline module- take information from the terminal, save it and carry out certain work on it)
 ```
 
 # How we can do this? 
