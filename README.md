@@ -27,3 +27,15 @@ As input parameter, createInterface uses process.stdin. As output parameter, cre
 ```
 
 ![image](https://user-images.githubusercontent.com/119097684/204077475-092755b6-6818-43ff-8edf-dafa038719e5.png)
+
+# Code
+```
+Example: 1
+
+We return the value written to the terminal
+
+The following code explains how a user can interact. The terminal prompts a question, “How old are you”. The users enter their response. The program notes the response and terminal then responds with “Really? I'm too”. The program is terminated since readline is closed in line 13.
+
+```
+![image](https://user-images.githubusercontent.com/119097684/204080999-86b3a4eb-869d-46ed-8250-1c16fc5bad45.png)
+
