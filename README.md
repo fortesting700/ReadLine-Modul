@@ -11,8 +11,6 @@ Readline module- take information from the terminal, save it and carry out certa
 ```
 To do this, we first open JS file. For example arg.js. Node Js has readline module for this. First we call the Readline module.
 
-https://user-images.githubusercontent.com/119097684/204076952-4683c314-9f02-4752-925c-16cad9839c68.png
-
-
-
 ```
+![image](https://user-images.githubusercontent.com/119097684/204076992-c13134d0-45b5-4d70-8452-09e00b7ce4ca.png)
+
