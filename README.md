@@ -37,5 +37,5 @@ We return the value written to the terminal
 We subtract the number entered by the user in the terminal. The program is terminated since readline is closed in line 13.
 
 ```
-![image](https://user-images.githubusercontent.com/119097684/204080999-86b3a4eb-869d-46ed-8250-1c16fc5bad45.png)
+![image](https://user-images.githubusercontent.com/119097684/204081304-74630e7a-d12f-4e07-a639-809dcd0e6f9c.png)
 
