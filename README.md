@@ -40,7 +40,11 @@ We subtract the number entered by the user in the terminal. The program is termi
 ```
 Example: 2
 
-Now we will perform a more difficult task. We write the data entered from the terminal to the array calculated in a specific mold and return it to the user in the table view. Here we also use the generator function
+In this exercise, we will edit the array using data from the terminal.
+
+The program asks us for a number. The program will run until the user enters any information other than a number. If you enter data other than a number, the program stops and returns an array.
+
 ```
+![image](https://user-images.githubusercontent.com/119097684/204220197-c3a44278-75cd-490b-85bc-058a8c40d6d3.png)
 
 
