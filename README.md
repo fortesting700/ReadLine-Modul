@@ -45,6 +45,12 @@ Resumes the readline input stream.
 Closes the Interface instance, relinquishing control on the input and output streams. The "close" event will also be emitted.
 ```
 
+# readline.setPrompt(prompt)
+```
+prompt {string}
+The rl.setPrompt() method sets the prompt that will be written to output whenever rl.prompt() is called.
+```
+
 # Code
 ```
 Example: 1
