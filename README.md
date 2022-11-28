@@ -119,7 +119,7 @@ The difference and amenities can also be seen through this example.
 Kiritilgan raqamning toq yoki juftligini aniqlash.
 
 ```
-![image](https://user-images.githubusercontent.com/119097684/204238763-277d3edf-a91f-4e18-b5ea-24b2952820ff.png)
+![image](https://user-images.githubusercontent.com/119097684/204238979-1a427c09-db56-4663-96db-768874315c4b.png)
 
 
 
