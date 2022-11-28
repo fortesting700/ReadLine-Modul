@@ -100,4 +100,26 @@ The Readline module has an npm package name that makes it easy to operate. packa
 
 ![image](https://user-images.githubusercontent.com/119097684/204232546-3799c5cc-89ff-49fb-b04e-80125d650a00.png)
 
+# Styntax of readline-sync
+
+```
+Readline and readlinesync package works almost the same. And their differences are shown in the examples. But the readline-sync package provides ample convenience for processing and writing code. This can also be seen in the examples
+```
+# Code
+
+```
+1 - Example
+We get information from the user and release it to the console.
+```
+![image](https://user-images.githubusercontent.com/119097684/204237180-06f07dcc-3050-4c3c-a5e8-1c25a9963391.png)
+The difference and amenities can also be seen through this example.
+
+```
+2 - Example
+Kiritilgan raqamning toq yoki juftligini aniqlash.
+
+```
+![image](https://user-images.githubusercontent.com/119097684/204238763-277d3edf-a91f-4e18-b5ea-24b2952820ff.png)
+
+
 
