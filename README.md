@@ -105,6 +105,26 @@ The Readline module has an npm package name that makes it easy to operate. packa
 ```
 Readline and readlinesync package works almost the same. And their differences are shown in the examples. But the readline-sync package provides ample convenience for processing and writing code. This can also be seen in the examples
 ```
+
+# questionEMail
+```
+Display a query to the user if it's specified, and then accept only a valid e-mail address, and then return it after the Enter key was pressed.
+```
+![image](https://user-images.githubusercontent.com/119097684/204240661-be128b9e-3145-486f-a756-8a5000d89d11.png)
+
+# questionInt
+```
+Display a query to the user if it's specified, and then accept only an input that can be interpreted as an integer, and then return the number (not string) after the Enter key was pressed.
+```
+![image](https://user-images.githubusercontent.com/119097684/204241576-4d877ae4-bf9b-47fa-9066-2bd3fafdf769.png)
+
+# questionFloat
+```
+Display a query to the user if it's specified, and then accept only an input that can be interpreted as a floating-point number, and then return the number (not string) after the Enter key was pressed.
+```
+![image](https://user-images.githubusercontent.com/119097684/204242237-72d38792-4bb5-471f-a68e-a27784835353.png)
+
+
 # Code
 
 ```
