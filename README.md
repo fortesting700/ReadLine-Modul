@@ -95,9 +95,7 @@ We’ll tell readline what to do in ‘line’ event, which is triggered when a 
 # Readline-sync (npm package)
 
 ```
-The Readline module has an npm package name that makes it easy to operate. package name readline-sync.
-
-The Readline module has an npm package name that makes it easy to operate. package name readlinesync. This package provides much more convenience to use. To use the package, it is first necessary to install it
+The Readline module has an npm package name that makes it easy to operate. package name readline-sync. This package provides much more convenience to use. To use the package, it is first necessary to install it
 ```
 
 ![image](https://user-images.githubusercontent.com/119097684/204232546-3799c5cc-89ff-49fb-b04e-80125d650a00.png)
