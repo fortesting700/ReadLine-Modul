@@ -141,6 +141,12 @@ Determination of the odd or even of the entered Number.
 ```
 ![image](https://user-images.githubusercontent.com/119097684/204238979-1a427c09-db56-4663-96db-768874315c4b.png)
 
+# TASK
+
+```
+Perform addition, separation, multiplication and division actions build the calculator program using the readline module or the readline-sync npm package.
+```
+
 
 
 
