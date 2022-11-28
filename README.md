@@ -44,7 +44,14 @@ In this exercise, we will edit the array using data from the terminal.
 
 The program asks us for a number. The program will run until the user enters any information other than a number. If you enter data other than a number, the program stops and returns an array.
 
+In the 11 line of the program, the user is asked for a number.
+
+In the 12 line of the program, it is checked that the number entered by the user is a type number, and not a NaN. If the check goes correctly adds to the array and recursive functions will call back and perform ammals from another.
+In the 11 line of the program, the user is asked for a number.
+If an error passes the check i.e. not a number if another type is entered, the array will be returned to the user and the program will stop working. We can see this in rows 16, 17, 18
+
+
 ```
-![image](https://user-images.githubusercontent.com/119097684/204220197-c3a44278-75cd-490b-85bc-058a8c40d6d3.png)
+![image](https://user-images.githubusercontent.com/119097684/204220445-520cd7ba-31b6-4643-a513-4d6093f270cb.png)
 
 
