@@ -132,11 +132,11 @@ Display a query to the user if it's specified, and then accept only an input tha
 We get information from the user and release it to the console.
 ```
 ![image](https://user-images.githubusercontent.com/119097684/204237180-06f07dcc-3050-4c3c-a5e8-1c25a9963391.png)
-The difference and amenities can also be seen through this example.
+
 
 ```
 2 - Example
-Kiritilgan raqamning toq yoki juftligini aniqlash.
+Determination of the odd or even of the entered Number.
 
 ```
 ![image](https://user-images.githubusercontent.com/119097684/204238979-1a427c09-db56-4663-96db-768874315c4b.png)
