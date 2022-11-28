@@ -92,5 +92,14 @@ Let’s set up a function that reads lines, then stores the input in an array un
 
 We’ll tell readline what to do in ‘line’ event, which is triggered when a newline character is seen (you press enter in the terminal), with the line itself as the argument.
 ```
+# Readline-sync (npm package)
+
+```
+The Readline module has an npm package name that makes it easy to operate. package name readline-sync.
+
+The Readline module has an npm package name that makes it easy to operate. package name readlinesync. This package provides much more convenience to use. To use the package, it is first necessary to install it
+```
+
+![image](https://user-images.githubusercontent.com/119097684/204232546-3799c5cc-89ff-49fb-b04e-80125d650a00.png)
 
 
